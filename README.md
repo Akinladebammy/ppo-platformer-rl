@@ -8,7 +8,7 @@ The project was built for the CPOLI Graduate Research Assistant Code Challenge. 
 
 ## Submission Artifacts
 
-- [Research Write-up (PDF)](PPO_Platformer_Research_Writeup_Final.pdf)
+- [Research Write-up (PDF)](PPO_Platformer_Research_Writeup.pdf)
 - [Trained Agent Gameplay (MP4)](demo/trained_agent.mp4)
 - [Best PPO Model](models/ppo_platformer_best.zip)
 
