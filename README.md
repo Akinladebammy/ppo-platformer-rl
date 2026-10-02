@@ -57,7 +57,7 @@ mario_rl/
 ├── demo/
 │   └── trained_agent.mp4
 │
-├── PPO_Platformer_Research_Writeup_Final.pdf
+├── PPO_Platformer_Research_Writeup.pdf
 │
 ├── results/
 │   ├── random_baseline.json
@@ -81,7 +81,7 @@ mario_rl/
 - `config.json` — training and evaluation configuration.
 - `notebooks/ppo_experiments.ipynb` — exploratory PPO experiments and analysis.
 - `demo/trained_agent.mp4` — short recording of the selected trained PPO agent completing the level.
-- `PPO_Platformer_Research_Writeup_Final.pdf` — four-page research write-up covering the MDP, method, results, limitations, reproducibility, and disclosure.
+- `PPO_Platformer_Research_Writeup.pdf` — four-page research write-up covering the MDP, method, results, limitations, reproducibility, and disclosure.
 
 ---
 
