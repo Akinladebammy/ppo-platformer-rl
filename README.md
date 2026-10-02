@@ -1,6 +1,12 @@
+**Bamgbose Akinlade Hussein**
+
 # PPO Platformer — Graduate Research Assistant Code Challenge
 
-**Bamgbose Akinlade Hussein**
+## Submission Artifacts
+
+- [Research Write-up (PDF)](PPO_Platformer_Research_Writeup_Final.pdf)
+- [Trained Agent Gameplay (MP4)](demo/trained_agent.mp4)
+- [Best PPO Model](models/ppo_platformer_best.zip)
 
 A small deterministic platformer written from scratch in Python/Pygame, together with a Gymnasium-compatible reinforcement learning environment and a PPO agent trained using Stable-Baselines3.
 
