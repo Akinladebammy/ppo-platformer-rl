@@ -2,15 +2,15 @@
 
 # PPO Platformer — Graduate Research Assistant Code Challenge
 
+A small deterministic platformer written from scratch in Python/Pygame, together with a Gymnasium-compatible reinforcement learning environment and a PPO agent trained using Stable-Baselines3.
+
+The project was built for the CPOLI Graduate Research Assistant Code Challenge. The goal was to implement a simple Mario-style platformer, formulate it as a reinforcement learning problem, train a PPO agent to complete the level, and provide a reproducible training and evaluation workflow.
+
 ## Submission Artifacts
 
 - [Research Write-up (PDF)](PPO_Platformer_Research_Writeup_Final.pdf)
 - [Trained Agent Gameplay (MP4)](demo/trained_agent.mp4)
 - [Best PPO Model](models/ppo_platformer_best.zip)
-
-A small deterministic platformer written from scratch in Python/Pygame, together with a Gymnasium-compatible reinforcement learning environment and a PPO agent trained using Stable-Baselines3.
-
-The project was built for the CPOLI Graduate Research Assistant Code Challenge. The goal was to implement a simple Mario-style platformer, formulate it as a reinforcement learning problem, train a PPO agent to complete the level, and provide a reproducible training and evaluation workflow.
 
 ## Headline Result
 
