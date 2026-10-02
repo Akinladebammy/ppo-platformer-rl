@@ -1,0 +1,30 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+.venv_test/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS metadata
+.DS_Store
+
+# IDE / editor settings
+.idea/
+.vscode/
+
+# TensorBoard / training logs
+logs/
+
+# Temporary files
+*.tmp
+*.log
+
+# Redundant backup of the final trained model
+models/ppo_platformer_best_notebook.zip

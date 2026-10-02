@@ -1,0 +1,25 @@
+{
+  "seed": 42,
+
+  "training": {
+    "total_timesteps": 204800,
+    "evaluation_interval": 10240,
+    "evaluation_episodes": 20,
+    "max_episode_steps": 1000
+  },
+
+  "ppo": {
+    "learning_rate": 0.0003,
+    "n_steps": 1024,
+    "batch_size": 64,
+    "n_epochs": 10,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "clip_range": 0.2,
+    "ent_coef": 0.01
+  },
+
+  "final_evaluation": {
+    "episodes": 100
+  }
+}
