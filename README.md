@@ -8,8 +8,8 @@ The project was built for the CPOLI Graduate Research Assistant Code Challenge. 
 
 ## Submission Artifacts
 
-- [Research Write-up (PDF)](PPO_Platformer_Research_Writeup.pdf)
-- [Trained Agent Gameplay (MP4)](demo/trained_agent.mp4)
+- [Research Write-up (PDF)](Research_Writeup.pdf)
+- [Trained Agent Gameplay (MP4)](demo/trained_model.mp4)
 - [Best PPO Model](models/ppo_platformer_best.zip)
 
 ## Headline Result
@@ -335,7 +335,7 @@ Steps: 187
 
 A short recording of the selected trained PPO agent completing the level is included in the repository:
 
-[`demo/trained_agent.mp4`](demo/trained_agent.mp4)
+[`demo/trained_agent.mp4`](demo/trained_model.mp4)
 
 The saved policy can also be replayed directly from the project with:
 
@@ -344,8 +344,6 @@ python3 evaluate.py --render
 ```
 
 ---
-
-
 
 # Learning Curve and Checkpoint Selection
 
