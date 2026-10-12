@@ -81,7 +81,7 @@ mario_rl/
 - `config.json` — training and evaluation configuration.
 - `notebooks/ppo_experiments.ipynb` — exploratory PPO experiments and analysis.
 - `demo/trained_model.mp4` — short recording of the selected trained PPO agent completing the level.
-- `PPO_Research_Writeup.pdf` — four-page research write-up covering the MDP, method, results, limitations, reproducibility, and disclosure.
+- `Research_Writeup.pdf` — four-page research write-up covering the MDP, method, results, limitations, reproducibility, and disclosure.
 
 ---
 
@@ -335,7 +335,7 @@ Steps: 187
 
 A short recording of the selected trained PPO agent completing the level is included in the repository:
 
-[`demo/trained_agent.mp4`](demo/trained_model.mp4)
+[`demo/trained_model.mp4`](demo/trained_model.mp4)
 
 The saved policy can also be replayed directly from the project with:
 
